@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SleevesUp_TechTest", "SleevesUp_TechTest\SleevesUp_TechTest.csproj", "{78444BF5-1AC0-4554-BFE3-2D21892550B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SleevesUp_TechTest.Test", "SleevesUp_TechTest.Test\SleevesUp_TechTest.Test.csproj", "{7DF128D4-4EA4-4829-83AC-2B5A3CD5BC6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78444BF5-1AC0-4554-BFE3-2D21892550B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78444BF5-1AC0-4554-BFE3-2D21892550B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78444BF5-1AC0-4554-BFE3-2D21892550B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78444BF5-1AC0-4554-BFE3-2D21892550B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF128D4-4EA4-4829-83AC-2B5A3CD5BC6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF128D4-4EA4-4829-83AC-2B5A3CD5BC6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF128D4-4EA4-4829-83AC-2B5A3CD5BC6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF128D4-4EA4-4829-83AC-2B5A3CD5BC6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29F095D1-E122-4F3D-9171-7A3B2BEEB938}
+	EndGlobalSection
+EndGlobal

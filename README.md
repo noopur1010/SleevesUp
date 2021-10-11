@@ -11,10 +11,10 @@ C# Technical Test
       * Nupur's Comments: done   
    * Send a public shared link to the solution. Google or Microsoft link.
       * Nupur's Comments: done   
-      * Download Project Link: https://123   
+      * Download Project Link: https://github.com/noopur1010/SleevesUp   
    * Send a screenshot of the OUTPUT as a separate attachment.
       * Nupur's Comments: done  
-      * Nupur's Comments: Included in the output folder
+      * Nupur's Comments: SleevesUp\Output\Output.JPG 
 
 * Technologies which should be used:
    * C#
